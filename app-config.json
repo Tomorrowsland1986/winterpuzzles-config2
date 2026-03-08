@@ -8,7 +8,7 @@
   },
 
   "allowed": {
-    "countries": ["ES"],
+    "countries": [""],
     "url": "http://www.google.it"
   },
 
